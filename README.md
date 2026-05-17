@@ -146,8 +146,8 @@ The skill loads reference files on demand — only those relevant to the current
 
 ## Created By
 
-**Accessible Thinking**
-The Little Book of Accessibility skill is based on the knowledge, frameworks, and strategic thinking developed by Accessible Thinking.
+**Gareth Ford Williams**
+The Little Book of Accessibility skill is based on the knowledge, frameworks, and strategic thinking developed by Gareth Ford Williams, director at AccessibleThinking.com
 
 ---
 
